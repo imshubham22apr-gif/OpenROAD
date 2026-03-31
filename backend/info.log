@@ -1,0 +1,9 @@
+2026-03-31 21:07:07,870 - INFO - Retriever initialized successfully.
+2026-03-31 21:08:28,285 - INFO - Retriever initialized successfully.
+2026-03-31 21:26:04,879 - INFO - Starting document ingestion...
+2026-03-31 21:26:04,893 - INFO - Loaded 12 documents.
+2026-03-31 21:26:04,896 - INFO - Split documents into 56 chunks.
+2026-03-31 21:26:05,957 - INFO - Storing chunks in chroma...
+2026-03-31 21:26:20,365 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2026-03-31 21:26:20,368 - ERROR - Ingestion failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key*here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-03-31 21:26:24,942 - INFO - Retriever initialized successfully.
