@@ -1,6 +1,6 @@
 # 🚀 Chipathon AI Knowledge Hub: Ask Chipathon Chatbot
 
-A high-performance, modular AI ecosystem for OpenROAD-based physical design documentation. This project features a built-in RAG (Retrieval-Augmented Generation) chatbot and a Docusaurus-based document hub.
+A high-performance, modular AI powerhouse for OpenROAD-based physical design documentation. This project features a built-in RAG (Retrieval-Augmented Generation) chatbot and a Docusaurus-based document hub.
 
 ---
 
